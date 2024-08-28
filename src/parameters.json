@@ -1,0 +1,6 @@
+{
+    "cost_factor_cte": 1, 
+    "cost_factor_epsi": 1,
+    "cost_factor_v": 3,
+    "v_ref": 45
+}
